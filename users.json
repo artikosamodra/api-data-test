@@ -7,7 +7,7 @@
       "email": "artiko@gmail.com",
       "role": "admin",
       "image" : "artiko.png"
-    }
+    },
     {
       "id": "2",
       "username": "samodra",
@@ -17,5 +17,4 @@
       "role": "client",
       "image" : "samodra.png"
     }
-
   ]
